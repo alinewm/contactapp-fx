@@ -45,6 +45,7 @@ public class MainApp extends Application {
         personData.add(new Contact("Anna Best"));
         personData.add(new Contact("Stefan Meier"));
         personData.add(new Contact("Martin Mueller"));
+        personData.add(new Contact("Alex Shin"));
     }
 
     /**
